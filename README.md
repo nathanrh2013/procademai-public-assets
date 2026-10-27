@@ -34,6 +34,7 @@ https://raw.githubusercontent.com/nathanrh2013/procademai-public-assets/main/cam
 | Campaign | Code | Folder | Contents |
 |---|---|---|---|
 | NxT — Next Gen Procurement Organization (Nov 2026) | NGO-01 | `campaigns/ngo-01-2026-11/` | Day01–Day30 post lead visuals (1080×1350 PNG) |
+| Procademai — Procurement AI Value Diagnostic (Nov 2026) | ASP-01 | `campaigns/asp-01-2026-11/` | 27 of 32 November LinkedIn post lead visuals (1080×1350 JPG) — the final, uploaded D-019 graphic for each post that has one; filenames are `<label>_<Holman-OS-post-id>.jpg` so each maps 1:1 to its Buffer draft and its row in `calendar-data.json`. 5 posts (Nov 1 AIE look-ahead, Nov 5, Nov 12, Nov 19, Nov 30 AIE look-back) have no final graphic yet and are not here. |
 
 ---
 © 2026 Procademai / Holman & Holman LLC
